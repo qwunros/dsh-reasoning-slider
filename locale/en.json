@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Reasoning slider model picker",
+    "description": "Replaces the composer's bottom-right model control with a compact model name and reasoning level. Click it to open a reasoning-effort slider whose stops follow the selected model (models without reasoning metadata show Low, High, and Max), an agent-team toggle that starts off, and a reset control. Click the model name to slide the model picker up; the highest reasoning level turns the label and slider purple and adds a moving particle trail. Requires the DSH Web GUI."
+  }
+}
